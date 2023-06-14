@@ -4,7 +4,7 @@
 
 ### Collaborating on Code
 
-**Trainers**: Levan Bokeria, Lydia France
+**Instructors**: Levan Bokeria, Lydia France
 
 Collaboratively writing and reviewing code is a crucial skill for working as part of a team. Keeping track of 
 outstanding issues and proposed solutions, as well as ensuring compatibility of code written by different team members 
@@ -16,7 +16,7 @@ Pull Requests. A basic familiarity with Git and the GitHub interface is recommen
 
 ### Testing and Continuous Integration
 
-**Trainer**: Mary Chester-Kadwell
+**Instructor**: Mary Chester-Kadwell
 
 Testing code helps to make sure it behaves the way we intended and continues to do so in the future. Writing code and 
 tests together at the same time helps us to write modular and testable code. Running tests should be done every time 
@@ -37,7 +37,7 @@ will use Python and YAML.
 - 15.45 Testing and Continuous Integration 2
 - 17.00 Networking event
 
-## Trainers
+## Instructors
 
 - [Levan Bokeria](https://uk.linkedin.com/in/levan-bokeria1991), The Turing Institute
 - [Lydia France](https://www.turing.ac.uk/people/researchers/lydia-france), The Turing Institute

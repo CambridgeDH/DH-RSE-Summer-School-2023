@@ -4,7 +4,7 @@
 
 ### 3D Data - Structure from Motion 
 
-**Trainer**: Neil Jakeman
+**Instructor**: Neil Jakeman
 
 Structure from motion is an imaging technique for creating 3D images from 2D images. In this workshop we will cover 
 how to image a variety of artefacts for humanities and collections research. We will look at strategies for different 
@@ -17,7 +17,7 @@ use trial versions of Agisoft Metashape (30-day evaluation licence), which will 
 
 ### Teaching Computational Methods to Humanities Researchers
 
-**Trainers**: Lucia Michielin, Jessica Witte
+**Instructors**: Lucia Michielin, Jessica Witte
 
 Teaching computational methods to researchers from non-STEM backgrounds, such as those working in humanities disciplines 
 that have not historically incorporated digital methods, presents unique challenges. During this workshop, we are going 
@@ -42,7 +42,7 @@ will focus on text analysis techniques and will use Python.
 - 15.45 Teaching Computational Methods to Humanities Researchers 2
 - 17.00 End
 
-## Trainers
+## Instructors
 
 - [Neil Jakeman](https://kdl.kcl.ac.uk/who-we-are/neil-jakeman/), King's Digital Lab
 - [Lucia Michielin](https://www.ed.ac.uk/profile/dr-lucia-michielin), Centre for Data, Culture & Society
