@@ -15,7 +15,8 @@ use trial versions of Agisoft Metashape (30-day evaluation licence), which will 
 
 **Pre-workshop preparations**: 
 
-**Important** - do not install the trial software more than 30 days in advance of the workshop; your license will expire.
+**Important** - You must install Agisoft Metashape (Standard) before the workshop begins, but do not install the trial software more than 
+30 days in advance of the workshop; your license will expire.
 The software we will be using is available at [https://www.agisoft.com/downloads/installer/](https://www.agisoft.com/downloads/installer/)
 and is available for Mac, Windows and Linux. Note that both Standard and Professional editions of Metashape allow to run
 the fully functional trial from the Activate Product dialog without requesting a trial key (the option Start a free 30-day 
@@ -26,7 +27,8 @@ and exhibits enough surface texture for the software to identify distinct region
 on reflective and metallic surfaces, or with transparent objects.
 
 It is perfectly possible to use photos taken with a phone to generate models, however you will find a more flexible option is to use
-a camera that can be easily configured for different exposure settings, such as a DLSR or mirrorless.
+a camera that can be easily configured for different exposure settings, such as a DLSR or mirrorless. Also, make sure you have
+the cables required to transfer images onto your computer.
 
 ### Teaching Computational Methods to Humanities Researchers
 
