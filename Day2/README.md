@@ -12,7 +12,7 @@
 - 13:00 **Talk**: Research Software Development Life Cyles: Planning and managing sustainable outputs (Neil Jakeman)
 - 14.10 Break
 - 14.20 **Talk**: Research Themes: Maintaining intellectual agency in research services (Neil Jakeman)
-- 14.50 **Keynote**: Career Pathways in RSE in the UK and Beyond (James Smithies)
+- 14.50 **Keynote**: Career Pathways in Arts & Humanities RSE in the UK and Beyond (James Smithies)
 - 15.40 Thank you and close (Mary Chester-Kadwell)
 - 15.45 End
 
