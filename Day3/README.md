@@ -24,7 +24,8 @@ code changes and whenever code is merged on collaborative projects, which is a t
 this workshop we will cover these topics, building on the collaborative coding exercise from the morning. The workshop 
 will use Python and YAML.
 
-**Pre-workshop preparations**: 
+**Pre-workshop preparations**: [Testing and Continuous Integration Pre-Workshop Preparation (Google Doc)](https://docs.google.com/document/d/1t_MubA1QW8dSDujrj6HIY0dcI6HnuC59Fsooc1oJkWw/edit?usp=sharing)
+NB: Please ensure you allow plenty of time to complete these preparations **in advance of the workshop**, especially if you have never used git or Docker before. There will be little opportunity to assist with setup on the day of the workshops. 
 
 ## Schedule
 
