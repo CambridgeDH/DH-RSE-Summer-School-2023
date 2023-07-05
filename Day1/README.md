@@ -8,7 +8,7 @@
 - 09.45 **Keynote**: Opportunities for Digital Humanists to move into Research Software Engineering (David Beavan)
 - 10:20 Break
 - 10:30 **Talk**: MapReader, a free, open-source software library for analysing large map collections (Katherine McDonough)
-- 11:20 Lunch
+- 11:20 Break
 - 11:30 **Talk**: T-Res: a toponym resolution tool for historical newspapers (Mariona Coll-Ardanuy)
 - 12:20 Lunch
 - 13.20 **Talk**: Containers and serverless for Digital Humanities projects (Mary Chester-Kadwell)
