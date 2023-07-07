@@ -45,6 +45,22 @@ with various audiences, and how to bridge the gap between computer science and h
 will focus on text analysis techniques and will use Python. 
 
 **Pre-workshop preparations**: 
+Please familiarise yourself with the contents of [this document](https://github.com/DCS-training/TeachingDH/blob/main/AttendeesInstructions.md).
+
+All of the material will be accessed through Google Colab, so you will not need to complete any installations on your machine.
+
+
+**Instructions:**
+
+We will simulate three learning experiences using roleplay. The formats are as follows:
+
+1. **Standard workshop**: an instructor-led live coding tutorial in an introduction to the NLTK package in Python
+2. **Digital Method of the Month**: an open discussion about text mining as a method, including what it takes to get started, potential use cases, and resources for learning
+3. **Silent Disco**: an opportunity to receive real-time chat support while working through a written tutorial
+
+You will be able to act as both an instructor/helper and an attendee. The various instructor roles will require different levels of engagement required. Therefore, if you do not feel comfortable speaking in front of a group, you might prefer to select a helper role or to volunteer as an instructor for one of the non-traditional workshop formats.
+
+We have created four attendee profiles that reflect the backgrounds and experience levels of learners who enrol in our training workshops. Before we begin, you will receive an attendee profile that will inform your experience in each learning experience. Do your best to participate according to your assigned profile.
 
 ## Schedule
 
