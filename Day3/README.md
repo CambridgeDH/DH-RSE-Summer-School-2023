@@ -12,7 +12,7 @@ becomes challenging as the team size grows. In this hands-on workshop, we will r
 efficiently organising and tracking collaborative programming, and practice creating GitHub Issues, Git branches, and 
 Pull Requests. A basic familiarity with Git and the GitHub interface is recommended.
 
-**Pre-workshop preparations**: 
+**Pre-workshop preparations**: For this session, please make sure to complete the [installation of Git Version Control](https://docs.google.com/document/d/1t_MubA1QW8dSDujrj6HIY0dcI6HnuC59Fsooc1oJkWw/edit#heading=h.b4uiwt65ltkq). NB: this preparations google doc is the same document as for the next session on "Testing and Continuous Integration."  
 
 ### Testing and Continuous Integration
 
