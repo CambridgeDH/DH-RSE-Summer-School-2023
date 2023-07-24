@@ -15,7 +15,7 @@
 - 14.10 Break
 - 14.20 **Talk**: Data modelling with ontologies and graphs for digital archaeology (Mahmoud Abdelrazek)
 - 15.00 Break
-- 15.10 **Talk**: Supporting Digital Humanities MPhil Students (Jonathan Blaney)
+- 15.10 **Talk**: Supporting Digital Humanities MPhil Students (Jonathan Blaney) [Slides](Jonathan-Blaney-DH-summer-school.pdf)
 - 15.40 **Discussion**: Careers in DH & RSE
 - 16.00 Close
 
