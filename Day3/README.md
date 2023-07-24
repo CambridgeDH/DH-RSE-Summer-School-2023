@@ -8,14 +8,15 @@
 
 Collaboratively writing and reviewing code is a crucial skill for working as part of a team. Keeping track of 
 outstanding issues and proposed solutions, as well as ensuring compatibility of code written by different team members 
-becomes challenging as the team size grows. In this hands-on workshop, we will review the "gitflow" framework for 
+becomes challenging as the team size grows. In this hands-on workshop, we will review the "Git flow" framework for 
 efficiently organising and tracking collaborative programming, and practice creating GitHub Issues, Git branches, and 
 Pull Requests. A basic familiarity with Git and the GitHub interface is recommended.
 
-**Pre-workshop preparations**: For this session, please make sure to complete the [installation of Git Version Control](https://docs.google.com/document/d/1t_MubA1QW8dSDujrj6HIY0dcI6HnuC59Fsooc1oJkWw/edit#heading=h.b4uiwt65ltkq). 
-NB: 
-- This preparations google doc is the same document as for the next session on "Testing and Continuous Integration."  
-- This workshop assumes basic knowledge of version control with Git. If you have not used Git before, please familiarize yourself with it by completing [this workbook on Git basics](https://docs.google.com/document/d/1uO8f0j62-5FkLkDHht9xOj-XFbr0RTF9sukWCig42vk/edit).
+**Pre-workshop preparations**:  
+- Please make sure you have a [GitHub account](https://github.com/)
+- Please complete the [installation of Git Version Control](https://docs.google.com/document/d/1t_MubA1QW8dSDujrj6HIY0dcI6HnuC59Fsooc1oJkWw/edit#heading=h.b4uiwt65ltkq). 
+    - This preparations google doc is the same document as for the next session on "Testing and Continuous Integration."  
+    - This workshop assumes basic knowledge of version control with Git. If you have not used Git before, please familiarize yourself with it by completing [this workbook on Git basics](https://docs.google.com/document/d/1uO8f0j62-5FkLkDHht9xOj-XFbr0RTF9sukWCig42vk/edit).
 
 ### Testing and Continuous Integration
 
