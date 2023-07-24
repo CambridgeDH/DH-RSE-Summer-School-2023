@@ -11,7 +11,7 @@
 - 11:20 Break
 - 11:30 **Talk**: T-Res: a toponym resolution tool for historical newspapers (Mariona Coll-Ardanuy)
 - 12:20 Lunch
-- 13.20 **Talk**: Containers and serverless for Digital Humanities projects (Mary Chester-Kadwell)
+- 13.20 **Talk**: Containers and serverless for Digital Humanities projects (Mary Chester-Kadwell) [Slides](https://docs.google.com/presentation/d/14Gbav4aTo5QEyjdsCNX9cX4qLOxU8tv1KRY4YQYxldk/edit?usp=sharing)
 - 14.10 Break
 - 14.20 **Talk**: Data modelling with ontologies and graphs for digital archaeology (Mahmoud Abdelrazek)
 - 15.00 Break
