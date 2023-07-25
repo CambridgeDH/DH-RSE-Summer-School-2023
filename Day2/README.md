@@ -9,7 +9,7 @@
 - 10:45 Break
 - 11:00 **Talk**: Frances: A Deep Learning NLP and Text Mining Digital Platform for Analysis of Historical Texts at Scale (Rosa Filgueira)
 - 12:00 Lunch
-- 13:00 **Talk**: Research Software Development Life Cyles: Planning and managing sustainable outputs (Neil Jakeman)
+- 13:00 **Talk**: Research Software Development Life Cycles: Planning and managing sustainable outputs (Neil Jakeman)
 - 14.10 Break
 - 14.20 **Talk**: Research Themes: Maintaining intellectual agency in research services (Neil Jakeman)
 - 14.50 **Keynote**: Career Pathways in Arts & Humanities RSE in the UK and Beyond (James Smithies)
