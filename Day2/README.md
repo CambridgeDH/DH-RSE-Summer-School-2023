@@ -5,7 +5,7 @@
 ## Schedule
 
 - 09.35 Welcome back (Mary Chester-Kadwell)
-- 09.45 **Talk**: The CDCS Rapid Prototyping Sandpit (Lisa Otty, Lucia Michielin, Jessica Witte)
+- 09.45 **Talk**: The CDCS Rapid Prototyping Sandpit (Lisa Otty, Lucia Michielin, Jessica Witte) [Slides](SandpitCDCSRSEDHSummerSchoolFinal.pdf)
 - 10:45 Break
 - 11:00 **Talk**: Frances: A Deep Learning NLP and Text Mining Digital Platform for Analysis of Historical Texts at Scale (Rosa Filgueira)
 - 12:00 Lunch
