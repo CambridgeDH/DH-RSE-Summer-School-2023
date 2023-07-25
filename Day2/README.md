@@ -7,7 +7,7 @@
 - 09.35 Welcome back (Mary Chester-Kadwell)
 - 09.45 **Talk**: The CDCS Rapid Prototyping Sandpit (Lisa Otty, Lucia Michielin, Jessica Witte) [Slides](SandpitCDCSRSEDHSummerSchoolFinal.pdf)
 - 10:45 Break
-- 11:00 **Talk**: Frances: A Deep Learning NLP and Text Mining Digital Platform for Analysis of Historical Texts at Scale (Rosa Filgueira)
+- 11:00 **Talk**: Frances: A Deep Learning NLP and Text Mining Digital Platform for Analysis of Historical Texts at Scale (Rosa Filgueira) [Slides](Frances_Research_Software_Engineering_Summer_School_2023%20.pdf)
 - 12:00 Lunch
 - 13:00 **Talk**: Research Software Development Life Cycles: Planning and managing sustainable outputs (Neil Jakeman) [Slides](DH_RSE_2023_SDLC_Jakeman_.pdf)
 - 14.10 Break
