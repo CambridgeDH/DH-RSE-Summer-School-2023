@@ -13,7 +13,7 @@
 - 12:20 Lunch
 - 13.20 **Talk**: Containers and serverless for Digital Humanities projects (Mary Chester-Kadwell) [Slides](https://docs.google.com/presentation/d/14Gbav4aTo5QEyjdsCNX9cX4qLOxU8tv1KRY4YQYxldk/edit?usp=sharing)
 - 14.10 Break
-- 14.20 **Talk**: Data modelling with ontologies and graphs for digital archaeology (Mahmoud Abdelrazek)
+- 14.20 **Talk**: Data modelling with ontologies and graphs for digital archaeology (Mahmoud Abdelrazek) [Slides](https://drive.google.com/file/d/17ooQDM8Xok_kNwuujNixQEiRCVBFO9Cu/view?usp=sharing)
 - 15.00 Break
 - 15.10 **Talk**: Supporting Digital Humanities MPhil Students (Jonathan Blaney) [Slides](Jonathan-Blaney-DH-summer-school.pdf)
 - 15.40 **Discussion**: Careers in DH & RSE
