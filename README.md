@@ -22,7 +22,7 @@ the day link.
 [The Turing Institute Research Engineering Group](https://www.turing.ac.uk/work-turing/research/research-engineering)
 & [Cambridge Digital Humanities](https://www.cdh.cam.ac.uk/).
 
-[Day 2](https://github.com/CambridgeDH/dh-rse-summer-school-2023/tree/main/Day2) (25 July, 09:30-16:00, online) **Talks**: 
+[Day 2](https://github.com/CambridgeDH/dh-rse-summer-school-2023/tree/main/Day2) (25 July, 09:35-15:45, online) **Talks**: 
 [Centre for Data, Culture & Society](https://www.cdcs.ed.ac.uk/) & [King's Digital Lab](https://kdl.kcl.ac.uk).
 
 [Day 3](https://github.com/CambridgeDH/dh-rse-summer-school-2023/tree/main/Day3) (27 July, 10:00-17:00, Cambridge, UK) **Workshops**: 

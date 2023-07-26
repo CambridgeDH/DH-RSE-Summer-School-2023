@@ -5,17 +5,17 @@
 ## Schedule
 
 - 09.30 Welcome and Introduction (Mary Chester-Kadwell)
-- 09.45 **Keynote**: Opportunities for Digital Humanists to move into Research Software Engineering (David Beavan)
+- 09.45 **Keynote**: Opportunities for Digital Humanists to move into Research Software Engineering (David Beavan) [Slides](David_Beavan_DH_RSE_Summer_School_2023-07-24_slides.pdf)
 - 10:20 Break
-- 10:30 **Talk**: MapReader, a free, open-source software library for analysing large map collections (Katherine McDonough)
+- 10:30 **Talk**: MapReader, a free, open-source software library for analysing large map collections (Katherine McDonough) [Slides](https://docs.google.com/presentation/d/1nht1BdDuMnrs0Ut04H9eiT5TurSquYFosmy4rrvJwuI/edit#slide=id.g24cec1efbb8_7_89)
 - 11:20 Break
 - 11:30 **Talk**: T-Res: a toponym resolution tool for historical newspapers (Mariona Coll-Ardanuy)
 - 12:20 Lunch
-- 13.20 **Talk**: Containers and serverless for Digital Humanities projects (Mary Chester-Kadwell)
+- 13.20 **Talk**: Containers and serverless for Digital Humanities projects (Mary Chester-Kadwell) [Slides](https://docs.google.com/presentation/d/14Gbav4aTo5QEyjdsCNX9cX4qLOxU8tv1KRY4YQYxldk/edit?usp=sharing)
 - 14.10 Break
-- 14.20 **Talk**: Data modelling with ontologies and graphs for digital archaeology (Mahmoud Abdelrazek)
+- 14.20 **Talk**: Data modelling with ontologies and graphs for digital archaeology (Mahmoud Abdelrazek) [Slides](https://drive.google.com/file/d/17ooQDM8Xok_kNwuujNixQEiRCVBFO9Cu/view?usp=sharing)
 - 15.00 Break
-- 15.10 **Talk**: Supporting Digital Humanities MPhil Students (Jonathan Blaney)
+- 15.10 **Talk**: Supporting Digital Humanities MPhil Students (Jonathan Blaney) [Slides](Jonathan-Blaney-DH-summer-school.pdf)
 - 15.40 **Discussion**: Careers in DH & RSE
 - 16.00 Close
 
