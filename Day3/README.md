@@ -18,6 +18,12 @@ Pull Requests. A basic familiarity with Git and the GitHub interface is recommen
     - This preparations google doc is the same document as for the next session on "Testing and Continuous Integration."  
     - This workshop assumes basic knowledge of version control with Git. If you have not used Git before, please familiarize yourself with it by completing [this workbook on Git basics](https://docs.google.com/document/d/1uO8f0j62-5FkLkDHht9xOj-XFbr0RTF9sukWCig42vk/edit).
 
+#### On-the-day slides and instructions
+- [Git, GitHub and Git flow slides](https://github.com/CambridgeDH/DH-RSE-Summer-School-2023/blob/main/Day3/2023.07.27%20DH%20RSE%20Code%20Collab%20slides.pdf)
+- [Step-by-step hands-on tutorial](https://docs.google.com/document/d/1tMo_0u7PE8aK_KfUpyWS7cDFQT4veq9wjNg2mNQE_ew/edit?usp=sharing)
+- [Slido for progress tracking](https://app.sli.do/event/gqamJnWVR5YRcaGgbFjW9z)
+
+
 ### Testing and Continuous Integration
 
 **Instructor**: Mary Chester-Kadwell
