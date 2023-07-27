@@ -27,7 +27,8 @@ and exhibits enough surface texture for the software to identify distinct region
 on reflective and metallic surfaces, or with transparent objects.
 
 We've included a sample dataset for those who haven't got cameras or objects to scan:
-- [Bird Bath photoset ~70Mb](bird_bath.zip)
+- [Bird Bath photoset ~21Mb](bird_bath.zip)
+- [Bird Bath optimised - reduced overlap ~ 8Mb](optimised_reduced_overlap.zip)
 
 It is perfectly possible to use photos taken with a phone to generate models, however you will find a more flexible option is to use
 a camera that can be easily configured for different exposure settings, such as a DLSR or mirrorless. Also, make sure you have
