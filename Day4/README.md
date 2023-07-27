@@ -6,7 +6,7 @@
 
 **Instructor**: Neil Jakeman
 
-Structure from motion is an imaging technique for creating 3D images from 2D images. In this workshop we will cover 
+Structure from motion is an imaging technique for creating 3D models from 2D images. In this workshop we will cover 
 how to image a variety of artefacts for humanities and collections research. We will look at strategies for different 
 scenarios (e.g. [room scale capture](https://skfb.ly/oF9N6), [landscape capture](https://skfb.ly/o8ErV), and capturing 
 [individual smaller items](https://skfb.ly/6SR8u) with differing textural qualities). We will consider how to 
@@ -26,9 +26,8 @@ You might like to attempt scanning a personal item in 3D? If so, consider bringi
 and exhibits enough surface texture for the software to identify distinct regions. Photogrammetry doesn't work as well
 on reflective and metallic surfaces, or with transparent objects.
 
-We've included two sample datasets for those who haven't got cameras or objects to scan:
+We've included a sample dataset for those who haven't got cameras or objects to scan:
 - [Bird Bath photoset ~70Mb](bird_bath.zip)
-- [St.Peter minimal photoset ~1.7Mb](st_peter.zip)
 
 It is perfectly possible to use photos taken with a phone to generate models, however you will find a more flexible option is to use
 a camera that can be easily configured for different exposure settings, such as a DLSR or mirrorless. Also, make sure you have
