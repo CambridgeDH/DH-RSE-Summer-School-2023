@@ -4,6 +4,8 @@
 
 ### 3D Data - Structure from Motion 
 
+Slides [here](DH_RSE_2023_Photogrammetry.zip)
+
 **Instructor**: Neil Jakeman
 
 Structure from motion is an imaging technique for creating 3D models from 2D images. In this workshop we will cover 
