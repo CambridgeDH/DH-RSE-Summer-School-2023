@@ -4,7 +4,7 @@
 
 ### 3D Data - Structure from Motion 
 
-Slides [here](DH_RSE_2023_Photogrammetry.zip)
+Slides [here](DH_RSE_2023_Photogrammetry.pdf)
 
 **Instructor**: Neil Jakeman
 
